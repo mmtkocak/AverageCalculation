@@ -6,10 +6,9 @@ Ayrıca, uygulama genellikle öğrenciler veya eğitimcilere yöneliktir, ancak 
 
 Bu uygulama, Flutter'ın güçlü widget'larını ve Dart dilinin esnek yapısını kullanarak geliştirilmiştir. Kullanıcı dostu arayüzü ve dinamik not hesaplama özelliği sayesinde, öğrencilerin veya eğitimcilerin günlük hayatlarını kolaylaştırmayı hedefler.
 
-
-<br><br>
+<br>
 <hr>
-<br><br>
+<br>
 Hello, this application is a mobile app developed in Flutter and Dart language. The application dynamically calculates the grade point average by allowing users to enter the grades they received throughout the semester.
 
 The app enables users to enter grades for each course. As users enter a grade for a course, the app saves these grades and calculates the current grade point average instantly. This allows users to continuously track the average value of the grades they received throughout the semester.
