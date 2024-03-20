@@ -16,3 +16,7 @@ The app enables users to enter grades for each course. As users enter a grade fo
 Additionally, the application is generally aimed at students or educators, but can be used by anyone who wants to save grades and track their averages while working on any grading or evaluation system.
 
 This application is developed using Flutter's powerful widgets and Dart language's flexible structure. It aims to facilitate the daily lives of students or educators with its user-friendly interface and dynamic grade calculation feature.
+
+<br>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hYNLLJHThes/0.jpg)](https://www.youtube.com/watch?v=hYNLLJHThes)
